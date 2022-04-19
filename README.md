@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![:name](https://count.getloli.com/get/@:zhengjim)
+![:name](https://count.getloli.com/get/@zhengjim)
 
 
 
