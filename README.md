@@ -10,3 +10,6 @@
 ### 访客统计
 
 [![Top Langs](https://profile-counter.glitch.me/zhengjim/count.svg)](https://www.zhengjim.com)
+
+
+![](https://raw.githubusercontent.com/zhengjim/zhengjim/main/assets/github-contribution-grid-snake.svg)
